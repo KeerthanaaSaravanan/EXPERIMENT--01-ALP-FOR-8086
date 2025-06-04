@@ -1,15 +1,11 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name: keerthana S
+## Name: Keerthana S
 ## Roll no : 212223240070
-## Date of experiment : 10.03.25
 
-## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
+## Aim:
+To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
-
-
-
-
  ## Running the Emulator :
 1.	Download and install emu8086 (www.emu8086.com) It is usually installed in C:\EMU8086 subfolder in the “Windows” directory
 2.	  Run  emu8086 icon (on the desktop or in the c:\EMU8086 folder of window) It has green color 
